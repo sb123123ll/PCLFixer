@@ -1,0 +1,15 @@
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\bin\Release\net48\PCL2_McDownload_Fixer.exe.config
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\bin\Release\net48\PCL2_McDownload_Fixer.exe
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\bin\Release\net48\PCL2_McDownload_Fixer.pdb
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\obj\Release\net48\PCLFixer.csproj.AssemblyReference.cache
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\obj\Release\net48\MainWindow.baml
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\obj\Release\net48\MainWindow.g.cs
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\obj\Release\net48\App.g.cs
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\obj\Release\net48\PCL2_McDownload_Fixer_MarkupCompile.cache
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\obj\Release\net48\PCL2_McDownload_Fixer.g.resources
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\obj\Release\net48\PCLFixer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\obj\Release\net48\PCLFixer.AssemblyInfoInputs.cache
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\obj\Release\net48\PCLFixer.AssemblyInfo.cs
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\obj\Release\net48\PCLFixer.csproj.CoreCompileInputs.cache
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\obj\Release\net48\PCL2_McDownload_Fixer.exe
+c:\Users\thunder\Desktop\杂项\mmm\PCLFixer\obj\Release\net48\PCL2_McDownload_Fixer.pdb

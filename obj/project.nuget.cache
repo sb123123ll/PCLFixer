@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "umiku7vfmiM=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\thunder\\Desktop\\杂项\\mmm\\PCLFixer\\PCLFixer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thunder\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\thunder\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
